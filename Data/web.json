@@ -1,0 +1,84 @@
+[
+    {
+        "name": "Google",
+        "url": "https://www.google.com/",
+        "opening_messages": [
+            "Hello! Let's dive into the world of Google.",
+            "Brace yourself, we're entering Google territory.",
+            "Get ready for a Google adventure!"
+        ]
+    },
+    {
+        "name": "Facebook",
+        "Keywords": "facebook, face , book",
+        "url": "https://www.facebook.com/",
+        "opening_messages": [
+            "Welcome to Facebook! Stay connected with friends and family.",
+            "Time to socialize on Facebook!",
+            "Let's explore the Facebook world together."
+        ]
+    },
+    {
+        "name": "Twitter",
+        "url": "https://www.twitter.com/",
+        "opening_messages": [
+            "Tweet, retweet, and discover on Twitter.",
+            "The world of tweets and trends awaits you.",
+            "Get ready to share your thoughts on Twitter."
+        ]
+    },
+    {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/",
+        "opening_messages": [
+            "Step into the professional world of LinkedIn.",
+            "Connect, network, and grow on LinkedIn.",
+            "Welcome to LinkedIn, where opportunities await."
+        ]
+    },
+    {
+        "name": "GitHub",
+        "url": "https://www.github.com/",
+        "opening_messages": [
+            "Explore the world of coding and collaboration on GitHub.",
+            "Get ready to commit and push on GitHub.",
+            "Welcome to GitHub, where code comes to life."
+        ]
+    },
+    {
+        "name": "archive",
+        "url": "https://archive.org/",
+        "opening_messages": [
+            "Unlock the treasure trove of historical content on the Internet Archive.",
+            "Journey into the past with the Internet Archive.",
+            "Explore history and culture on the Internet Archive."
+        ]
+    },
+    {
+        "name": "movies",
+        "url": "https://movies/",
+        "opening_messages": [
+            "Lights, camera, action! Enjoy movies on Vega Movies.",
+            "Welcome to Vega Movies, your source for entertainment.",
+            "Get ready for a movie marathon on Vega Movies."
+        ]
+    },
+    {
+        "name": "dead toons",
+        "url": "cartoon-site",
+        "opening_messages": [
+            "Enter the world of cartoons and anime on Dead Toons.",
+            "Get ready to watch your favorite toons on Dead Toons.",
+            "Welcome to Dead Toons, where animations come to life."
+        ]
+    },
+    {
+        "name": "music",
+        "url": "https://www.pagalworld.com.se/",
+        "opening_messages": [
+            "Get your groove on with music from PagalWorld.",
+            "Time to enjoy music on PagalWorld!",
+            "Welcome to PagalWorld, your destination for music."
+        ]
+    }
+]
